@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import { navigate, validateRidereducation } from "./Page_Objects_Personal_Project.cy";
+import { navigate, validateRidereducation } from "./Page_Objects_Project_Honda.cy";
 
 
 describe('Getting to Honda Homepage', () => {
